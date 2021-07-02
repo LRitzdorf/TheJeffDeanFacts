@@ -52,19 +52,19 @@ And now, without further ado...
 - Jeff Dean can beat you at connect four. In three moves.
 - Jeff Dean invented BigTable because his resume was too big to fit anywhere else.
 - Jeff Dean took the bite out of Apple's logo.
-- Chuck Norris can kill you. Jeff Dean can kill -9 you.
+- Chuck Norris can kill you. Jeff Dean can `kill -9` you.
 - Jeff Dean can parse HTML with a regular expression...correctly.
-- When Jeff has trouble sleeping, he Mapreduces sheep.
+- When Jeff has trouble sleeping, he MapReduces sheep.
 - When Jeff Dean fires up the profiler, loops unroll themselves in fear.
 - When your code has undefined behavior, you get a seg fault and corrupted data. When Jeff Dean's code has undefined behavior, a unicorn rides in on a rainbow and gives everybody free ice cream.
 - Jeff doesn't sleep, he just sends SIGSUSPEND to the universe.
 - Jeff got Java readability with only 8 lines of code.
 - Jeff Dean can instantiate abstract classes.
 - `gcc -O4` sends your code to Jeff Dean for a complete rewrite.
-- Jeff can recite 20,000 digits of pi in 5 hours. He doesn't remember them; he just recomputes them on the fly using only O(log n) space.
+- Jeff can recite 20,000 digits of pi in 5 hours. He doesn't remember them; he just recomputes them on the fly using only `O(log n)` space.
 - Jeff Dean remembers only one password. For each site, he concatenates it with the site name, computes its SHA-256 hash, and then types the result.
-- Jeff Dean is still waiting for mathematicians to discover the joke he hid in the digits of PI.
-- There is no 'Ctrl' key on Jeff Dean's keyboard. Jeff Dean is always in control.
+- Jeff Dean is still waiting for mathematicians to discover the joke he hid in the digits of pi.
+- There is no `Ctrl` key on Jeff Dean's keyboard. Jeff Dean is always in control.
 - Jeff Dean was born on December 31, 1969 at 11:48 PM. It took him twelve minutes to implement his first time counter.
 - When Jeff Dean says "Hello World", the world says "Hello Jeff".
 - Jeff Dean can get 1s out of `/dev/zero`.
