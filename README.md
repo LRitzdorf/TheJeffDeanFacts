@@ -18,11 +18,11 @@ And now, without further ado...
 - Jeff Dean got promoted to level 11 in a system where max level is 10. (**TRUE**)
 - Google Search was Jeff Dean's Noogler Project.
 - Jeff Dean has punch card readability.
-- Jeff Dean puts his pants on one leg at a time, but if he had more than two legs, you would see that his approach is actually O(log n).
+- Jeff Dean puts his pants on one leg at a time, but if he had more than two legs, you would see that his approach is actually `O(log n)`.
 - Jeff Dean acquired Sawzall readability after writing 58 lines of Sawzall code. As part of his readability review, he pointed out a flaw in the style guide which was promptly corrected by the reviewer.
 - Sanjay once asked Jeff Dean if he could keep the entire web in his memory. Due to the noise from his keyboard cooling fan, Jeff Dean misheard slightly and wrote Mustang instead of simply answering "Yes".
 - Jeff Dean compiles and runs his code before submitting, but only to check for compiler and CPU bugs.
-- Unsatisfied with constant time, Jeff Dean created the world's first O(1/n) algorithm.
+- Unsatisfied with constant time, Jeff Dean created the world's first `O(1/n)` algorithm.
 - Jeff Dean has binary readability.
 - Jeff Dean has binary writability.
 - When Jeff Dean goes on vacation, production services across Google mysteriously stop working within a few days. This is actually true.<sup>1</sup>
@@ -60,18 +60,18 @@ And now, without further ado...
 - Jeff doesn't sleep, he just sends SIGSUSPEND to the universe.
 - Jeff got Java readability with only 8 lines of code.
 - Jeff Dean can instantiate abstract classes.
-- gcc -O4 sends your code to Jeff Dean for a complete rewrite.
+- `gcc -O4` sends your code to Jeff Dean for a complete rewrite.
 - Jeff can recite 20,000 digits of pi in 5 hours. He doesn't remember them; he just recomputes them on the fly using only O(log n) space.
 - Jeff Dean remembers only one password. For each site, he concatenates it with the site name, computes its SHA-256 hash, and then types the result.
 - Jeff Dean is still waiting for mathematicians to discover the joke he hid in the digits of PI.
 - There is no 'Ctrl' key on Jeff Dean's keyboard. Jeff Dean is always in control.
 - Jeff Dean was born on December 31, 1969 at 11:48 PM. It took him twelve minutes to implement his first time counter.
 - When Jeff Dean says "Hello World", the world says "Hello Jeff".
-- Jeff Dean can get 1s out of /dev/zero.
+- Jeff Dean can get 1s out of `/dev/zero`.
 - Jeff Dean simply walks into Mordor.
 - Jeff Dean spent some 20% time on an AI project. That produced Urs Hoelzle.
 - Google once had to move out of a datacenter after Jeff Dean accidentally compressed the index so densely that a black hole was formed.
-- Jeff starts his programming sessions with "cat > /dev/mem".
+- Jeff starts his programming sessions with `cat > /dev/mem`.
 - The speed of light in a vacuum used to be about 35 mph. Then Jeff Dean spent a weekend optimizing physics.
 - When Jeff Dean sends you a code review, it's because he thinks there's something in it you should learn.
 - Jeff Dean does not `sleep()`, he `wait()`s.
@@ -79,7 +79,7 @@ And now, without further ado...
 - Once Jeff Dean ordered a list, and the list obeyed him.
 - Chuck Norris is Jeff Dean's 20% project.
 - When your code is killed by SIGJEFF, it never runs again.
-- Jeff Dean's calendar goes straight from March 31st to April 2nd; no one fools Jeff Dean.
+- Jeff Dean's calendar goes straight from March 31<sup>st</sup> to April 2<sup>nd</sup>; no one fools Jeff Dean.
 - Jeff Dean never has the wrong number; you have the wrong phone.
 - Jeff Dean has exactly two keys on his keyboard: `0` and `1`.
 - Errors treat Jeff Dean as a warning.
@@ -90,21 +90,21 @@ And now, without further ado...
 - Google: it's basically a Jeff Dean's side project.
 - Jeff Dean has to unoptimize his code so that reviewers believe it was written by a human.
 - Websearch is just a large unittest Jeff wrote for his real app.
-- Jeff Dean doesn't need speakers or headphones. He just types "cat \*.mp3", glances at the screen, and his brain decodes the music in the background while he works.
+- Jeff Dean doesn't need speakers or headphones. He just types `cat \*.mp3`, glances at the screen, and his brain decodes the music in the background while he works.
 - Jeff Dean has Perl Readability. (**TRUE**)
 - Jeff Dean quicksorts his laundry.
 - The OR ELSE construct had to be removed from ISO C after Jeff Dean used it in Mustang and kernels started panicking in terror.
 - Jeff Dean is not afraid of evil constructors. They are afraid of him.
 - Jeff Dean doesn't write bugs, just features you are unable to understand.
-- Jeff Dean eschews both Emacs and VI. He types his code into zcat, because it's faster that way.
-- When Jeff Dean sends an ethernet frame there are no collisions because the competing frames retreat back up into the buffer memory on their source nic.
-- Jeff once simultaneously reduced all binary sizes by 3% and raised the severity of a previously known low-priority python bug to critical-priority in a single change that contained no python code.
-- One day Jeff Dean grabbed his Etch-a-Sketch instead of his laptop on his way out the door. On his way back home to get his real laptop, he programmed the Etch-a-Sketch to play Tetris.
+- Jeff Dean eschews both Emacs and VI. He types his code into `zcat`, because it's faster that way.
+- When Jeff Dean sends an Ethernet frame, there are no collisions because the competing frames retreat back up into the buffer memory on their source network cards.
+- Jeff once simultaneously reduced all binary sizes by 3% and raised the severity of a previously known low-priority Python bug to critical-priority in a single change that contained no Python code.
+- One day, Jeff Dean grabbed his Etch-a-Sketch instead of his laptop on his way out the door. On his way back home to get his real laptop, he programmed the Etch-a-Sketch to play Tetris.
 - The x86-64 spec includes several undocumented instructions marked private use. They are actually for Jeff Dean's use.
 - Knuth mailed a copy of <u>The Art of Computer Programming</u> to Google. Jeff Dean autographed it and mailed it back.
 - When he heard that Jeff Dean's autobiography would be exclusive to the platform, Richard Stallman bought a Kindle.
 - Jeff Dean can losslessly compress random data.
-- When asked if the facts about him are true, Jeff Dean responded "111111". While the interviewer was still trying to figure out what he meant, he clarified, "every single bit of it is true."
+- When asked if the facts about him are true, Jeff Dean responded with "111111". While the interviewer was still trying to figure out what he meant, he clarified, "every single bit of it is true."
 - Jeff Dean mines bitcoins. In his head.
 
 
@@ -118,4 +118,3 @@ This list was compiled from several sources, with duplicate (or near-duplicate) 
 ## Endnotes
 
 1. It's not clear whether this fact is *really* true, or whether this line is simply part of the joke, so I've omitted the usual `(TRUE)` identifier here. Interpret this as you see fit :)
-
