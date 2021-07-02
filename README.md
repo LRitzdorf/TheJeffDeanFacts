@@ -2,7 +2,7 @@
 
 ## About This Repo
 
-The "Jeff Dean facts" are a set of jokes that revolve around the extraordinary programming prowess of their [titualar Google employee](https://en.wikipedia.org/wiki/Jeff_Dean). Simply put, they are the coding equivalent of Chuck Norris-style jokes (for example, "").
+The "Jeff Dean facts" are a set of jokes that revolve around the extraordinary programming prowess of their [titualar Google employee](https://en.wikipedia.org/wiki/Jeff_Dean). Simply put, they are the coding equivalent of Chuck Norris-style jokes (for example, "Chuck Norris can slam a revolving door").
 
 I first encountered the Facts on <https://ben.lobaugh.net>, though as of recently they appear to have been removed. Thus, in order to preserve this invaluable cache of programmer humor for posterity, I decided to create this repository. It is a combined list of various versions of the Facts, beginning with a text file that I copied from Mr. Lobaugh's blog sometime in 2019, when his post still existed. It's been expanded from other sources, which are listed (and linked, if possible) at the end of this document.
 
