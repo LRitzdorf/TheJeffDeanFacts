@@ -4,7 +4,7 @@
 
 The "Jeff Dean facts" are a set of jokes that revolve around the extraordinary programming prowess of their [titualar Google employee](https://en.wikipedia.org/wiki/Jeff_Dean). Simply put, they are the coding equivalent of Chuck Norris-style jokes (for example, "Chuck Norris can slam a revolving door").
 
-I first encountered the Facts on <https://ben.lobaugh.net>, though as of recently they appear to have been removed. Thus, in order to preserve this invaluable cache of programmer humor for posterity, I decided to create this repository. It is a combined list of various versions of the Facts, beginning with a text file that I copied from Mr. Lobaugh's blog sometime in 2019, when his post still existed. It's been expanded from other sources, which are listed (and linked, if possible) at the end of this document.
+I first encountered the Facts on a random Quora page, though as of recently many of them appear to have been removed. Thus, in order to preserve this invaluable cache of programmer humor for posterity, I decided to create this repository. It is a combined list of various versions of the Facts, beginning with a text file that I copied from the Quora post sometime in 2019, when the original answer still existed. It's been expanded from other sources, which are listed (and linked, if possible) at the end of this document.
 
 And now, without further ado...
 
@@ -112,7 +112,7 @@ And now, without further ado...
 
 This list was compiled from several sources, with duplicate (or near-duplicate) Facts removed. The relevant sources are:
 
-- Ben Lobaugh's blog, at <https://ben.lobaugh.net> (post no longer exists)
+- Quora - the original question seems to still exist, at <https://www.quora.com/What-are-all-the-Jeff-Dean-facts>, but the exact response I downloaded all those years ago is nowhere to be found.
 - [infO(N)](https://www.informatika.bg), a Bulgarian website that appears to provide schedules and results for coding competitions ([post](https://www.informatika.bg/jeffdean))
 
 ## Endnotes
