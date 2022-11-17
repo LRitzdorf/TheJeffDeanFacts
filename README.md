@@ -2,7 +2,7 @@
 
 ## About This Repo
 
-The "Jeff Dean facts" are a set of jokes that revolve around the extraordinary programming prowess of their [titualar Google employee](https://en.wikipedia.org/wiki/Jeff_Dean). Simply put, they are the coding equivalent of Chuck Norris-style jokes (for example, "Chuck Norris can slam a revolving door").
+The "Jeff Dean facts" are a set of jokes that revolve around the extraordinary programming prowess of their [titular Google employee](https://en.wikipedia.org/wiki/Jeff_Dean). Simply put, they are the coding equivalent of Chuck Norris-style jokes (for example, "Chuck Norris can slam a revolving door").
 
 I first encountered the Facts on a random Quora page, though as of recently many of them appear to have been removed. Thus, in order to preserve this invaluable cache of programmer humor for posterity, I decided to create this repository. It is a combined list of various versions of the Facts, beginning with a text file that I copied from the Quora post sometime in 2019, when the original answer still existed. It's been expanded from other sources, which are listed (and linked, if possible) at the end of this document.
 
@@ -31,7 +31,7 @@ And now, without further ado...
 - You use 10% of your brain. The other 90% is running one of Jeff's mapreduce jobs.
 - Jeff Dean's resume lists the things he hasn't done; it's shorter that way.
 - To Jeff Dean, "NP" means "No Problemo".
-- Jeff Dean wrote an O(n^2) algorithm once. It was for the Traveling Salesman Problem.
+- Jeff Dean wrote an `O(n^2)` algorithm once. It was for the Traveling Salesman Problem.
 - You don't explain your work to Jeff Dean. Jeff Dean explains your work to you.
 - Jeff Dean's resume has so many accomplishments, it has a table of contents.
 - Jeff Dean was forced to invent asynchronous APIs one day when he optimized a function so that it returned before it was invoked.
@@ -90,7 +90,7 @@ And now, without further ado...
 - Google: it's basically a Jeff Dean's side project.
 - Jeff Dean has to unoptimize his code so that reviewers believe it was written by a human.
 - Websearch is just a large unittest Jeff wrote for his real app.
-- Jeff Dean doesn't need speakers or headphones. He just types `cat \*.mp3`, glances at the screen, and his brain decodes the music in the background while he works.
+- Jeff Dean doesn't need speakers or headphones. He just types `cat *.mp3`, glances at the screen, and his brain decodes the music in the background while he works.
 - Jeff Dean has Perl Readability. (**TRUE**)
 - Jeff Dean quicksorts his laundry.
 - The OR ELSE construct had to be removed from ISO C after Jeff Dean used it in Mustang and kernels started panicking in terror.
