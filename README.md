@@ -106,6 +106,8 @@ And now, without further ado...
 - Jeff Dean can losslessly compress random data.
 - When asked if the facts about him are true, Jeff Dean responded with "111111". While the interviewer was still trying to figure out what he meant, he clarified, "every single bit of it is true."
 - Jeff Dean mines bitcoins. In his head.
+- Jeff Dean traps the KILL signal.
+- Jeff Dean's programs don't SEGFAULT. The memory rearranges itself in order to put data and code where it belongs.
 
 
 ## Sources
@@ -114,6 +116,7 @@ This list was compiled from several sources, with duplicate (or near-duplicate) 
 
 - Quora - the original question seems to still exist, at <https://www.quora.com/What-are-all-the-Jeff-Dean-facts>, but the exact response I downloaded all those years ago is nowhere to be found.
 - [infO(N)](https://www.informatika.bg), a Bulgarian website that appears to provide schedules and results for coding competitions ([post](https://www.informatika.bg/jeffdean))
+- A [now-deleted Google+ thread](https://plus.google.com/+KentonVarda/posts/TSDhe5CvaFe), [quoted](https://www.reddit.com/r/ProgrammerHumor/comments/45g4he/comment/d001vav) by a Reddit user
 
 ## Endnotes
 
