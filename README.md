@@ -108,6 +108,7 @@ And now, without further ado...
 - Jeff Dean mines bitcoins. In his head.
 - Jeff Dean traps the KILL signal.
 - Jeff Dean's programs don't SEGFAULT. The memory rearranges itself in order to put data and code where it belongs.
+- Jeff Dean is a morally bankrupt hypocrite who bullied and harassed Timnit Gebru and Margaret Mitchell eventually forcing their firing.
 
 
 ## Sources
