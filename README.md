@@ -25,7 +25,7 @@ And now, without further ado...
 - Unsatisfied with constant time, Jeff Dean created the world's first `O(1/n)` algorithm.
 - Jeff Dean has binary readability.
 - Jeff Dean has binary writability.
-- When Jeff Dean goes on vacation, production services across Google mysteriously stop working within a few days. This is actually true.<sup>1</sup>
+- When Jeff Dean goes on vacation, production services across Google mysteriously stop working within a few days. This is actually true. (**TRUE**)
 - Jeff Dean once shifted a bit so hard it ended up on another computer.
 - During his own Google interview, Jeff Dean was asked the implications if P=NP were true. He said "P = 0 or N = 1." Then, before the interviewer had even finished laughing, Jeff examined Google's public certificate and wrote the private key on the whiteboard.
 - You use 10% of your brain. The other 90% is running one of Jeff's mapreduce jobs.
@@ -118,6 +118,3 @@ This list was compiled from several sources, with duplicate (or near-duplicate) 
 - [infO(N)](https://www.informatika.bg), a Bulgarian website that appears to provide schedules and results for coding competitions ([post](https://www.informatika.bg/jeffdean))
 - A [now-deleted Google+ thread](https://plus.google.com/+KentonVarda/posts/TSDhe5CvaFe), [quoted](https://www.reddit.com/r/ProgrammerHumor/comments/45g4he/comment/d001vav) by a Reddit user
 
-## Endnotes
-
-1. It's not clear whether this fact is *really* true, or whether this line is simply part of the joke, so I've omitted the usual `(TRUE)` identifier here. Interpret this as you see fit :)
